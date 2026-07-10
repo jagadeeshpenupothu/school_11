@@ -11,8 +11,8 @@ local_backend: true
 media_folder: public/assets/uploads
 public_folder: /assets/uploads
 
-site_url: https://school-1.netlify.app
-display_url: https://school-1.netlify.app
+site_url: https://candid-capybara-bb58df.netlify.app/
+display_url: https://candid-capybara-bb58df.netlify.app/
 logo_url: /favicon.svg
 
 slug:
